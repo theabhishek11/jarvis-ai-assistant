@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-)(-#)y!=b_67=58t#$=7kii)(pjpxy0uy&)6=*fxbrmcr70aw+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["jarvis-ai-assistant-rkca.onrender.com",
+ALLOWED_HOSTS = ["https://jarvis-ai-assistant-z5d2.onrender.com",
     "localhost",
     "127.0.0.1",]
 
